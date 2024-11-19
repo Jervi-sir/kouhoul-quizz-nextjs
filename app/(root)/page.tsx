@@ -31,7 +31,7 @@ export default function Home() {
             className="flex flex-col xs:gap-4 md:gap-10 lg:mt-28 xl:mt-0"
           >
             <h1 className="xs:text-4xl md:text-5xl font-normal text-dark-blue dark:text-white xl:text-6xl 2xl:text-6xl">
-              Welcome to the <span className="font-bold">Frontend Quizz!</span>
+              Welcome to the <span className="font-bold">BAC Quizz!</span>
             </h1>
             <p className="text-gray-navy italic dark:text-light-blue xs:text-sm xl:text-xl">
               Pick a subject to get started.
